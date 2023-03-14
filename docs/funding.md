@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: Alternative Funding
+title: 🪙 Alternative Funding
 ---
 
 Some funding sources might be more and some less suitable for your project throughout its various stages. We encourage you to explore alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its Web3 Foundation support terminated.
@@ -9,7 +9,8 @@ Some funding sources might be more and some less suitable for your project throu
 
 The treasury is a pot of on-chain funds collected through transaction fees, slashing, staking inefficiencies, etc. The funds held in the treasury can be spent on spending proposals. Both [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) offer everyone the opportunity to apply for funding via the treasury. See:
 
-- [Treasury Wiki](https://wiki.polkadot.network/docs/en/learn-treasury)
+- [Treasury](https://polkadot.network/treasury/)
+- [Treasury Bounties](https://polkadot.subsquare.io/treasury/bounties)
 - [Polkadot Treasury Guide](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w)
 - [Kusama Treasury Guide](https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE)
 
@@ -32,6 +33,7 @@ Below is a list of other grant programs in the Polkadot/Substrate ecosystem:
 - [Interlay Labs Grants Program](https://github.com/interlay/Grants-Program)
 - [Moonbeam Grants Program](https://moonbeam.foundation/grants/)
 - [OAK’s Developer Grants](https://oak.tech/community/grants/)
-- [peaq Ecosystem Grant Program](https://www.peaq.network/grant-program) 
+- [peaq Ecosystem Grant Program](https://www.peaq.network/grant-program)
+- [Phala Builders Program](https://wiki.phala.network/en-us/build/general/builders-program/)
 - [Picasso / Composable Grants Program](https://grants.composable.finance)
 - [SubQuery Grants Programme](https://subquery.network/grants)
